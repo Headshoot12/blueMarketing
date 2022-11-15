@@ -1,0 +1,44 @@
+.news__img {
+    background: #FFFFFF;
+    width: 100%;
+    max-width: 255px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    margin-top: 22px;
+}
+
+.news__h1 {
+    font-family: 'Rubik';
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #686868;
+}
+
+.link__h3 {
+    font-family: 'Rubik';
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 16px;
+    color: #323232;
+    padding: 15px 20px 0px 15px;
+    
+}
+
+.news__p1 {
+    font-family: 'Rubik';
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 13px;
+    color: #000000;
+    height: 41px;
+    width: 155px;
+    padding-top: 5px;
+}
+
+.img__news{
+    padding: 20px 0px 19px 0px;
+   
+}
